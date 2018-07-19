@@ -1,4 +1,0 @@
-abc.html			      priya.txt   test111.txt  yyy.txt
-index.html			      shalu.html  test12.txt
-news.txt			      sss.txt	  tester.html
-OneNote\ Table\ Of\ Contents.onetoc2  susan.txt   text.txt
